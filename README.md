@@ -38,7 +38,7 @@ The Power BI dashboard includes:
 
 ## 📊 Project Preview
 
-![Project Image](SuperStore Dashboard image.png)
+![Project Image](SuperStoreDashboard.png)
 
 ## Results
 - Sales and profit performance vary significantly across product categories, with some categories generating high sales but disproportionately low (or negative) profit.
