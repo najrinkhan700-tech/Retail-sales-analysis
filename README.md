@@ -36,7 +36,9 @@ The Power BI dashboard includes:
 - A sales trend view over time
 - Slicers for Region, State, Category, Ship Mode, and Segment for dynamic filtering
 
-<img width="1443" height="812" alt="image" src="https://github.com/user-attachments/assets/3ce1b6c7-71a0-4a0c-a67a-cf67a78b343e" />
+## 📊 Project Preview
+
+![Reatail-Sales-Analysis](Screenshot 2026-09-13 201640)
 
 
 ## Results
